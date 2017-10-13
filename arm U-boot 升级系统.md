@@ -19,20 +19,6 @@
 	nfs 0x30008000 192.168.1.4:/nfs/zImage
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 参考：
 1.[固件烧写方式](https://www.crifan.com/files/doc/docbook/firmware_download/release/htmls/ch03_download_method.html)
 
